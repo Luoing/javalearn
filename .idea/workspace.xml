@@ -4,22 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day01-V1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/notes/01.md" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/notes/01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/FloatDoubleExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/FloatDoubleExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/FloatDoubleExp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/FloatDoubleExp01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/StringExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/StringExer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day01/src/VariableTest4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +56,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.29770115",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,8 +81,19 @@
       <workItem from="1708588178713" duration="60000" />
       <workItem from="1708588262105" duration="1254000" />
       <workItem from="1708654358407" duration="1103000" />
-      <workItem from="1708656132452" duration="6339000" />
+      <workItem from="1708656132452" duration="6837000" />
+      <workItem from="1708678164570" duration="188000" />
+      <workItem from="1708678508627" duration="974000" />
     </task>
+    <task id="LOCAL-00001" summary="day01-V1.0">
+      <option name="closed" value="true" />
+      <created>1708673781812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708673781812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day01-V1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="day01-V1.0" />
   </component>
 </project>
