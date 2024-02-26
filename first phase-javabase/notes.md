@@ -6,3 +6,6 @@
 
 byte最大127
 用long定义变量最后要加后缀“l” long = 123312221l;
+
+基本数据类型：byte\short\int\long;float\double\;char\String;
+引用数据类型：类、数组、接口、枚举、注解、记录。

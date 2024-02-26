@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/first phase-javabase/day01/day01.iml" filepath="$PROJECT_DIR$/first phase-javabase/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first phase-javabase/day02/day02.iml" filepath="$PROJECT_DIR$/first phase-javabase/day02/day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/first phase-javabase/first phase-javabase.iml" filepath="$PROJECT_DIR$/first phase-javabase/first phase-javabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/javalearn.iml" filepath="$PROJECT_DIR$/javalearn.iml" />
     </modules>
