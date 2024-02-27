@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/day03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/ArgsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/MyArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/MyarraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/StudengUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day03;方法的作用和方法的声明；属性和方法的练习；对象数组的使用；方法的应用；package的使用" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +105,7 @@
       <workItem from="1708925452464" duration="4242000" />
       <workItem from="1708997292809" duration="3205000" />
       <workItem from="1709012679503" duration="1833000" />
-      <workItem from="1709014694083" duration="4514000" />
+      <workItem from="1709014694083" duration="4746000" />
     </task>
     <task id="LOCAL-00001" summary="day01-V1.0">
       <option name="closed" value="true" />
@@ -144,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708938380519</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day03;方法的作用和方法的声明；属性和方法的练习；对象数组的使用；方法的应用；package的使用">
+      <option name="closed" value="true" />
+      <created>1709024900351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709024900351</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +175,8 @@
     <MESSAGE value="day01-V1.0" />
     <MESSAGE value="day01-V1.1" />
     <MESSAGE value="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量" />
-    <option name="LAST_COMMIT_MESSAGE" value="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量" />
+    <MESSAGE value="day03;方法的作用和方法的声明；属性和方法的练习；对象数组的使用；方法的应用；package的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="day03;方法的作用和方法的声明；属性和方法的练习；对象数组的使用；方法的应用；package的使用" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
