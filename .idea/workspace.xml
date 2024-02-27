@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day01-V1.1">
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/day02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/ArrayExr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/ArrayExrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/EmplpyeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/FieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/OneArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day02/src/PhoneTest.java" afterDir="false" />
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/ArgsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/MyArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/MyarraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/StudengUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day03/src/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day01/notes/01.md" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +58,11 @@
     "Application.FloatDoubleExp.executor": "Run",
     "Application.FloatDoubleExp01.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MyarraysTest.executor": "Run",
+    "Application.PersonTest.executor": "Run",
     "Application.PhoneTest.executor": "Run",
     "Application.StringTest.executor": "Run",
+    "Application.StudentTest.executor": "Run",
     "Application.VariableTest2.executor": "Run",
     "Application.VariableTest4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -69,6 +70,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/luoqiqi/IdeaProjects/javalearn/first phase-javabase/day03/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +84,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first phase-javabase/day03/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/first phase-javabase/day02/src" />
       <recent name="$PROJECT_DIR$/first phase-javabase" />
@@ -110,7 +115,10 @@
       <workItem from="1708678508627" duration="974000" />
       <workItem from="1708680812847" duration="168000" />
       <workItem from="1708909180622" duration="3281000" />
-      <workItem from="1708925452464" duration="4082000" />
+      <workItem from="1708925452464" duration="4242000" />
+      <workItem from="1708997292809" duration="3205000" />
+      <workItem from="1709012679503" duration="1833000" />
+      <workItem from="1709014694083" duration="4514000" />
     </task>
     <task id="LOCAL-00001" summary="day01-V1.0">
       <option name="closed" value="true" />
@@ -128,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708680829637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量">
+      <option name="closed" value="true" />
+      <created>1708938380519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708938380519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day01-V1.0" />
     <MESSAGE value="day01-V1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day01-V1.1" />
+    <MESSAGE value="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量" />
+    <option name="LAST_COMMIT_MESSAGE" value="day02;数组、Arrays工具类、面向对象实例化、成员变量与局部变量" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
