@@ -4,30 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day04;类的封装性、构造器的使用及练习、javabean的认识、关键字this的使用、类的继承、方法的重写">
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/day05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam01/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam01/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam01/PersonTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam01/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exam02/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/GeometricTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam/Kids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam/ManKind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam/MankindTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam01/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam01/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam01/CheckAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superExam01/CheckAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superTest/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superTest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/superTest/StudentTest.java" afterDir="false" />
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day05;关键字super的调用父类的属性方法和构造器、多态向上转型">
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper02/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper03/Graduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper03/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper04/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper04/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/apply/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/apply/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/apply/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/block/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/block/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/block/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/block/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/exam01/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/exer01/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/exer02/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/exer02/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/singleton/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day06/src/singleton/GirlFriendTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper01/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper01/GeometricObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/GeometricTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper01/GeometricTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper01/MyRectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Luoing&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="af8609d2-07bc-441f-9220-779180ae5b5b" />
+        <option name="url" value="https://github.com/Luoing/javalearn.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
@@ -70,11 +89,15 @@
     "Application.ArrayExr01.executor": "Run",
     "Application.ArrayExrt.executor": "Run",
     "Application.ArrayTest.executor": "Run",
+    "Application.BlockTest.executor": "Run",
     "Application.CheckAccountTest.executor": "Run",
+    "Application.CustomerTest.executor": "Run",
     "Application.CyclinderTest.executor": "Run",
     "Application.EmplpyeeTest.executor": "Run",
     "Application.FloatDoubleExp.executor": "Run",
     "Application.FloatDoubleExp01.executor": "Run",
+    "Application.GeometricTest.executor": "Run",
+    "Application.InstanceTest.executor": "Run",
     "Application.KidsTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MankindTest.executor": "Run",
@@ -85,6 +108,7 @@
     "Application.StringTest.executor": "Run",
     "Application.StrudentTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
+    "Application.UserTest.executor": "Run",
     "Application.VariableTest2.executor": "Run",
     "Application.VariableTest4.executor": "Run",
     "Application.extendTest.executor": "Run",
@@ -95,7 +119,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/luoqiqi/IdeaProjects/javalearn/first phase-javabase/day04/src/overeide",
+    "last_opened_file_path": "/Users/luoqiqi/IdeaProjects/javalearn/first phase-javabase/day05/src/polymorphism/exper02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,10 +134,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first phase-javabase/day05/src/polymorphism/exper02" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day04/src/overeide" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day03/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first phase-javabase/day06/src" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day02/src" />
       <recent name="$PROJECT_DIR$/first phase-javabase" />
     </key>
@@ -161,7 +187,18 @@
       <workItem from="1709184654068" duration="38000" />
       <workItem from="1709184705813" duration="225000" />
       <workItem from="1709184941974" duration="590000" />
-      <workItem from="1709185629033" duration="6690000" />
+      <workItem from="1709185629033" duration="6821000" />
+      <workItem from="1709254696418" duration="1411000" />
+      <workItem from="1709270923800" duration="11000" />
+      <workItem from="1709271046776" duration="92000" />
+      <workItem from="1709271631825" duration="958000" />
+      <workItem from="1709273686892" duration="2336000" />
+      <workItem from="1709276624023" duration="140000" />
+      <workItem from="1709276869077" duration="252000" />
+      <workItem from="1709277135894" duration="646000" />
+      <workItem from="1709285931622" duration="387000" />
+      <workItem from="1709513580104" duration="222000" />
+      <workItem from="1709517324163" duration="6177000" />
     </task>
     <task id="LOCAL-00001" summary="day01-V1.0">
       <option name="closed" value="true" />
@@ -211,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709111252436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day05;关键字super的调用父类的属性方法和构造器、多态向上转型">
+      <option name="closed" value="true" />
+      <created>1709196359282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709196359282</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +295,8 @@
     <MESSAGE value="day03;方法的作用和方法的声明；属性和方法的练习；对象数组的使用；方法的应用；package的使用" />
     <MESSAGE value="修改README" />
     <MESSAGE value="day04;类的封装性、构造器的使用及练习、javabean的认识、关键字this的使用、类的继承、方法的重写" />
-    <option name="LAST_COMMIT_MESSAGE" value="day04;类的封装性、构造器的使用及练习、javabean的认识、关键字this的使用、类的继承、方法的重写" />
+    <MESSAGE value="day05;关键字super的调用父类的属性方法和构造器、多态向上转型" />
+    <option name="LAST_COMMIT_MESSAGE" value="day05;关键字super的调用父类的属性方法和构造器、多态向上转型" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
