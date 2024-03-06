@@ -4,39 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day06;Object类的理解；equals()方法使用及重写；tostring()的使用；关键字static的使用；单例模式懒汉式、饿汉式；代码块的使用">
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/day07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/Template/TemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer01/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer01/GeometricTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer01/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer02/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer02/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer02/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer02/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Final/finalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/apply/USBTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exam01/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer01/American.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer01/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer01/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer01/EatableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer01/Indian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer02/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer02/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer02/CompareObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/ElectricVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/IPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day07/src/Interface/exer03/VehicleTest.java" afterDir="false" />
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day07;关键字final的使用；抽象类与抽象方法的使用；接口的使用">
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Collection/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Enum/apply/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Enum/apply/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Enum/apply/employeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Enum/exam01/SeasonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Enum/exam01/SeasonTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/String/StringBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day08/src/Wrapper/wrapperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -115,17 +93,29 @@
     "Application.PersonTest.executor": "Run",
     "Application.PersonTest1.executor": "Run",
     "Application.PhoneTest.executor": "Run",
+    "Application.SeasonTest.executor": "Run",
+    "Application.SeasonTest01.executor": "Run",
     "Application.StringTest.executor": "Run",
     "Application.StrudentTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
     "Application.TemplateTest.executor": "Run",
+    "Application.TimeUntilNextWeekend.executor": "Run",
+    "Application.TimeUntilNextWorkday.executor": "Run",
     "Application.USBTest.executor": "Run",
     "Application.UserTest.executor": "Run",
     "Application.VariableTest2.executor": "Run",
     "Application.VariableTest4.executor": "Run",
     "Application.VehicleTest.executor": "Run",
+    "Application.employeeTest.executor": "Run",
     "Application.extendTest.executor": "Run",
     "Application.overrideTest.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CollectionTest.executor": "Run",
+    "JUnit.StringBufferTest.executor": "Run",
+    "JUnit.wrapperTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -141,7 +131,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.29770115",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -207,6 +197,11 @@
       <workItem from="1709600509334" duration="86000" />
       <workItem from="1709600660273" duration="6315000" />
       <workItem from="1709620932551" duration="4373000" />
+      <workItem from="1709627327327" duration="180000" />
+      <workItem from="1709632273239" duration="1156000" />
+      <workItem from="1709689504449" duration="4977000" />
+      <workItem from="1709706809398" duration="156000" />
+      <workItem from="1709707545506" duration="1803000" />
     </task>
     <task id="LOCAL-00001" summary="day01-V1.0">
       <option name="closed" value="true" />
@@ -272,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709540335580</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day07;关键字final的使用；抽象类与抽象方法的使用；接口的使用">
+      <option name="closed" value="true" />
+      <created>1709627432109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627432109</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +316,8 @@
     <MESSAGE value="day04;类的封装性、构造器的使用及练习、javabean的认识、关键字this的使用、类的继承、方法的重写" />
     <MESSAGE value="day05;关键字super的调用父类的属性方法和构造器、多态向上转型" />
     <MESSAGE value="day06;Object类的理解；equals()方法使用及重写；tostring()的使用；关键字static的使用；单例模式懒汉式、饿汉式；代码块的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="day06;Object类的理解；equals()方法使用及重写；tostring()的使用；关键字static的使用；单例模式懒汉式、饿汉式；代码块的使用" />
+    <MESSAGE value="day07;关键字final的使用；抽象类与抽象方法的使用；接口的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="day07;关键字final的使用；抽象类与抽象方法的使用；接口的使用" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
