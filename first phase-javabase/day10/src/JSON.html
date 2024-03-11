@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script>
+        /**
+         * json格式语法
+         * var PersonStr = '{"属性名":"属性值"，"属性名":"属性值","属性名":{},"属性名":[index0,index1,...}'
+         * 属性名必须用“”
+         * 属性值必须用字符串且“”，数字可以不处理
+         */
+
+        var personStr = '{"name":"张三", "age":10, "dog":{"danme":"小花"},"loveSinger":["abc","def"]}'
+        // console.log(personStr)
+        // console.log(typeof personStr)
+        // console.log(personStr.name)
+        var person = JSON.parse(personStr)
+        console.log(personStr)
+        console.log(person)
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
