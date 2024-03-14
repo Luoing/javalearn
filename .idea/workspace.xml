@@ -2,52 +2,33 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="day12-schedula_system:Web exploded" />
+      <artifact name="demo02:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day10;servlet的基本理解和使用01">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day12_schedula_system_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/day12-schedula_system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/rescources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/controller/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/controller/SysScheduleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/controller/SysUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/dao/SysScheduleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/dao/SysUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/dao/impl/SysScheduleDapImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/dao/impl/SysUserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/pojo/SysSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/pojo/SysUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/service/SysScheduleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/service/SysUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/service/impl/SysScheduleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/service/impl/SysUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/test/BaseDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/test/EncryptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/test/SysScheduleDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/util/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/src/com/atguigu/schedule/util/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/WEB-INF/lib/druid-1.1.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/WEB-INF/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/loginUserPwdError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/loginUsernameError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/regist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/registFail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/registSuccess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first phase-javabase/day12/web/showSchedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fe50eb2d-9a9a-49b0-a143-026a8cab983b" name="Changes" comment="day11;基本的项目构建流程，从controller-&gt;service-&gt;dao;熟知httpseverlet流程">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/java/com/atguigu/mvc/controller/RequestMappingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/java/com/atguigu/mvc/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/resources/SpringMVC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF/templates/target.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/src/main/java/com/atguigu/mvc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/src/main/resources/SpringMVC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/src/main/webapp/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/src/main/webapp/WEB-INF/templates/target.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first phase-javabase/day11/day11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/first phase-javabase/day11/day11.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +43,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="FxmlFile" />
-        <option value="HTML File" />
         <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -98,6 +80,14 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.9.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -147,6 +137,7 @@
     "Application.VariableTest2.executor": "Run",
     "Application.VariableTest4.executor": "Run",
     "Application.VehicleTest.executor": "Run",
+    "Application.WorkEndTimeCountdown.executor": "Run",
     "Application.employeeTest.executor": "Run",
     "Application.extendTest.executor": "Run",
     "Application.overrideTest.executor": "Run",
@@ -172,17 +163,21 @@
     "JUnit.employeeTest.executor": "Run",
     "JUnit.foreachTest.executor": "Run",
     "JUnit.wrapperTest.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.demo01 [org.apache.maven.plugins:maven-clean-plugin:3.2.0:help].executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.SpringMVC.executor": "Run",
     "Tomcat Server.Tomcat 9.0.38.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/luoqiqi/IdeaProjects/javalearn/first phase-javabase/day12/web",
+    "last_opened_file_path": "/Users/luoqiqi/IdeaProjects/javalearn/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -191,7 +186,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.29770115",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -205,11 +200,11 @@
       <recent name="Set" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first phase-javabase/day13-SpringMVC/demo02/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day12/web" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day12/web/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day11/web/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/first phase-javabase/day10/lib" />
-      <recent name="$PROJECT_DIR$/first phase-javabase/day07/src/Abstract/exer01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/first phase-javabase/day12/rescources" />
@@ -219,7 +214,7 @@
       <recent name="$PROJECT_DIR$/first phase-javabase" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.38">
+  <component name="RunManager" selected="Tomcat Server.SpringMVC">
     <configuration name="BaseDaoTest.baseQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day12-schedula_system" />
       <extension name="coverage">
@@ -300,13 +295,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="SpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="day12-schedula_system:Web exploded">
+        <artifact name="demo02:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/SpringMVC" />
           </settings>
         </artifact>
       </deployment>
@@ -384,7 +381,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day12-schedula_system:Web exploded" />
+          <artifact name="demo02:war exploded" />
         </option>
       </method>
     </configuration>
@@ -394,7 +391,7 @@
       <item itemvalue="JUnit.BaseDaoTest.baseUpdateTest" />
       <item itemvalue="JUnit.SysScheduleDaoTest.AddScheduleTest" />
       <item itemvalue="JUnit.SysScheduleDaoTest.FindAlltest" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.38" />
+      <item itemvalue="Tomcat Server.SpringMVC" />
     </list>
     <recent_temporary>
       <list>
@@ -469,7 +466,13 @@
       <workItem from="1709889918714" duration="1771000" />
       <workItem from="1710119388198" duration="19475000" />
       <workItem from="1710291501769" duration="4692000" />
-      <workItem from="1710300289860" duration="9476000" />
+      <workItem from="1710300289860" duration="10038000" />
+      <workItem from="1710324524766" duration="222000" />
+      <workItem from="1710324777888" duration="26000" />
+      <workItem from="1710324837356" duration="1545000" />
+      <workItem from="1710379599941" duration="1392000" />
+      <workItem from="1710381436913" duration="7954000" />
+      <workItem from="1710400540025" duration="4975000" />
     </task>
     <task id="LOCAL-00001" summary="day01-V1.0">
       <option name="closed" value="true" />
@@ -559,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710151250349</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="day11;基本的项目构建流程，从controller-&gt;service-&gt;dao;熟知httpseverlet流程">
+      <option name="closed" value="true" />
+      <created>1710322304384</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710322304384</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +614,8 @@
     <MESSAGE value="day07;关键字final的使用；抽象类与抽象方法的使用；接口的使用" />
     <MESSAGE value="day08;枚举类；Annotation注解的理解；包装类的使用；StringBufferBuilder的使用" />
     <MESSAGE value="day10;servlet的基本理解和使用01" />
-    <option name="LAST_COMMIT_MESSAGE" value="day10;servlet的基本理解和使用01" />
+    <MESSAGE value="day11;基本的项目构建流程，从controller-&gt;service-&gt;dao;熟知httpseverlet流程" />
+    <option name="LAST_COMMIT_MESSAGE" value="day11;基本的项目构建流程，从controller-&gt;service-&gt;dao;熟知httpseverlet流程" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

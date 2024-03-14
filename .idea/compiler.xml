@@ -3,6 +3,19 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="secondphase-Spring" />
+        <module name="day13-SpringMVC" />
+        <module name="demo02" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo (1) (com.atguigu)" target="1.8" />
+      <module name="secondphase-Spring" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
