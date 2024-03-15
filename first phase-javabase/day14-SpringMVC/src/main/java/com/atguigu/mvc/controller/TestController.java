@@ -7,18 +7,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Description:
  *
  * @Author QiQi Luo
- * @Create 2024/3/14 14:09
+ * @Create 2024/3/15 16:24
  * @Version 1.0
  */
 @Controller
 public class TestController {
-    @RequestMapping("/")
+    @RequestMapping("/index")
     public String index(){
         return "index";
-    }
-
-    @RequestMapping("/param")
-    public String param(){
-        return "test_param";
     }
 }
